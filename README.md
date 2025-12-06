@@ -13,7 +13,7 @@ The use of large language models (LLMs) for evaluating outputs is becoming an in
 ### 1. Installation
 
 ```bash
-git clone [https://github.com/yourusername/MTQ-Eval.git](https://github.com/yourusername/MTQ-Eval.git)
+git clone https://github.com/PortNLP/MTQ-Eval.git
 cd MTQ-Eval
 pip install -r requirements.txt
 ```
