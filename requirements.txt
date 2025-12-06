@@ -1,0 +1,9 @@
+transformers>=4.37.2
+datasets>=2.16.1
+evaluate>=0.4.1
+bitsandbytes>=0.43.2
+trl==0.8.1
+peft
+accelerate
+pandas
+scikit-learn
