@@ -33,7 +33,6 @@ python scripts/train_dpo.py
 ### 4. Evaluation
 
 Run the trained model on input texts to get quality ratings (0 or 1).
-Bash
 
 ```bash
 python scripts/evaluate.py
@@ -58,10 +57,10 @@ MTQ-Eval/
 # Citation
 
 ```bibtex
-@article{pokharel2025mtqeval,
+@article{pokharel2025mtq,
   title={MTQ-Eval: Multilingual Text Quality Evaluation for Language Models},
   author={Pokharel, Rhitabrat and Agrawal, Ameeta},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2511.09374},
   year={2025}
 }
 ```
